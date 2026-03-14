@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://why.kabrios.com/sitemap.xml
